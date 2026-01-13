@@ -72,6 +72,7 @@ Users are encouraged to open an issue in the GitHub repository
 Maintenance details, including contributors and maintainers, are listed in the GitHub repository documentation. This dataset is maintained by me, not GAO.
 
 15. Next Steps:
-1. Expand metadata extraction and classification
-2. Remove noise from dataset
-3. Condense file size 
+
+   A. Expand metadata extraction and classification
+   B. Remove noise from dataset
+   C. Condense file size 
