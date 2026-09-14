@@ -1,3 +1,23 @@
+September Run - Updated to pull all 33,000+ decisions, pull ends September 11, 2026, with collection in HTML/PDF format and a final JSONL corpus. JSONL available on HuggingFace: https://huggingface.co/datasets/Kmisener/GAO-Bid-Protest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior version 
+
 # GAO bid protest scraper
 
 Pulls every GAO bid protest decision down as **three artifacts per case**: the
